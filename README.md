@@ -34,6 +34,10 @@ $ npm install
 
 ## Running the app
 
+
+```database
+add justbreath.sql file to phpmyadmin and start mysql server
+
 ```bash
 # development
 $ npm run start
